@@ -1,0 +1,29 @@
+_repo: On-Compromise_11557
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Morley, John
+    alias: Morley, Viscount
+    birthdate: 1838
+    deathdate: 1923
+    gutenberg_agent_id: '3767'
+    url: http://www.gutenberg.org/2009/agents/3767
+    wikipedia: http://en.wikipedia.org/wiki/John_Morley,_1st_Viscount_Morley_of_Blackburn
+description: ''
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11557'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BJ'
+- !lcsh 'Compromise (Ethics)'
+- GITenberg
+tableOfContents: Introductory -- Of the possible utility of error -- Intellectual
+  responsibility and the political spirit -- Religious conformity -- The realisation
+  of opinion.
+title: On Compromise
+url: http://www.gutenberg.org/ebooks/11557
